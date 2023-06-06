@@ -1,6 +1,6 @@
 # Terraform Configuration
 provider "aws" {
-  region = "ap-northeast-1"  # 使用したいリージョンに適切に変更してください
+  region = "ap-northeast-1"  # 使用したいリージョンに適切に変更してくださいYO
 }
 
 # S3バケットの作成
